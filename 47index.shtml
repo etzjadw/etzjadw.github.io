@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<title>Jonathan Wattis </title>
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  </head>
+
+  <body>
+
+<!--#include virtual="47top.shtml"-->
+
+	<div id="page">
+	  <div id="page-padding">
+        <!-- start content -->	    
+	    <div id="content">
+	      <div id="content-padding">
+
+
+
+            <h1>Contact details</h1>
+<p class="blue"> Office: Room B41, 
+		Mathematical Sciences Building, University Park Campus </p> 
+<p class="grey"> Tel: (+44) - 0115 - 951 - 3857 </p> 
+<p class="blue"> Email: Jonathan dot Wattis at nottingham dot ac dot uk </p>
+<p class="grey"> Address: <a href="http://www.maths.nottingham.ac.uk/">School of Mathematical Sciences</a>,&emsp; <br />
+&emsp; &emsp; &emsp; <a href="http://www.nottingham.ac.uk">University of Nottingham,</a> <br /> 
+&emsp; &emsp; &emsp; University Park,&emsp;<br />
+&emsp; &emsp; &emsp; Nottingham &emsp; <br />
+&emsp; &emsp; &emsp; NG7 2RD,&emsp;<br />
+&emsp; &emsp; &emsp; UK </p>
+<p class="grey"> Fax: (+44) - 0115 - 951 - 3837 </p>
+
+	<p class="grey">ORCiD iD: <a href="http://orcid.org/0000-0002-6490-1938">orcid.org/0000-0002-6490-1938</a></p>
+
+	<p class="grey">ResearcherID: <a href="http://www.researcherid.com/rid/E-3490-2010">E-3490-2010</a></p>
+
+            <h1>About me</h1>
+	    
+            <p class="blue">
+	    I am a Professor of Applied Mathematics in the 
+	    <a href="http://www.nottingham.ac.uk/mathematics/index.aspx">School of Mathematical 
+		 Sciences</a> at the <a href="http://www.nottingham.ac.uk">University 
+		 of Nottingham</a>.  
+
+            <p class="grey">
+		 After my first degree, I studied for an MSc in mathematical modelling and numerical analysis, 
+		 with a dissertation on the onset of chaos in a differential-delay 
+		 equation supervised by Andrew Fowler.  My PhD on solitary waves in discrete 
+		 nonlinear systems was supervised by Chris Eilbeck, and following this, I did a brief 
+		 Postdoctoral Research post with Oliver Penrose, Jack Carr and Denver Hall on the 
+		 kinetics of micellar systems.  
+
+            <p class="blue">
+		At Nottingham, I have continued research in the areas of nonlinear dynamical systems, 
+		particularly solitary waves on Hamiltonian lattices, and deterministic 
+		coagulation-fragmentation problems.  I have also branched out into 
+		modelling biomedical/biochemical processes. 
+	    </p>
+		  
+            <p class="grey">
+		 I have taught a variety of modules including Engineering
+		 Mathematics, Nonlinear Waves, Numerical Analysis, Vocational
+		 Mathematics, Differential Equations and Maple. 
+	    </p>
+
+
+<!-- <p class="blue"><b>NEW (March 2017):  </b> --> 
+<!-- <p><b> --> 
+<!-- <a href="./phdstudentship.docx">PhD studentship in nonlinear dynamical  --> 
+<!--	  systems available</a> </b>
+<!-- </b></p> --> 
+<!-- <p><b> --> 
+<!-- <a href="./MathsNexus-seed-ad2.docx">PhD studentship in mathematical  --> 
+<!--	  modelling in food sciences available</a> </b> --> 
+<!-- </b></p> --> 
+
+</p>
+
+<p> 
+<!-- <b style="color:#2060ff">News</b> -->
+
+		  </div>
+		</div>
+		<!-- end content -->
+
+	    <div id="right-nav">
+		
+		  <br /><br /><br /><br /><br /><br />
+	    </div>
+	  </div>
+	  <div id="footer">
+	    <div id="footer-pad">
+	      <div class="line"></div>
+		  <!-- footer and copyright notice -->
+	      <p>Site is &copy; Jonathan Wattis, August 2011.</p> 
+	      <p>Design by <a href="http://www.steves-templates.com">Steve's free website templates</a>.</p>
+		  <!-- end footer and copyright notice -->
+	    </div>
+	  </div>
+	</div>
+  
+</body>
+</html>

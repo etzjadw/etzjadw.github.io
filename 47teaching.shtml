@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<title>Jonathan Wattis - teaching </title>
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  </head>
+
+  <body>
+
+<!--#include virtual="47top.shtml"-->
+
+	<div id="page">
+	  <div id="page-padding">
+        <!-- start content -->	    
+	    <div id="content">
+	      <div id="content-padding">
+            <h1>Teaching</h1>
+
+            <p class="blue">For 2019-2020:</p>
+
+            <p class="blue">
+	 <b>G14VOC - MATH/4045 - Vocational Mathematics</b> <br />
+	 <b>G14VFM - MATH/4055 - Vocational Financial Mathematics</b> <br />
+	 with Fredrik Stromberg, George Aristotetlous 
+	 - [<a href="http://moodle.nottingham.ac.uk/">moodle</a>] <br />	
+	<b>Autumn Semester:</b> Fridays 9am-12noon<br />
+ 	Location:  Bldg  for Workshops, <br />
+	(tutorials in Wks tbc, )<br />
+   <b>Spring Semester:</b> Fridays 9am-12noon; <br />
+	Location: Pope Bldg C?? (first and last workshops), <br />
+    Weekly Tutorials - Maths Bldg B01. 
+	    </p>
+ 
+            <p class="grey"> <b>First year Tutorials</b>:  Maths B41 <br />
+		Autumn Semester - Wednesdays 12noon (PASS Gp19-Fri3pm)<br /> 
+		Spring Semester -  . </p>
+	    
+	    <p class="blue"> <b>G14PJA/DIS</b> - final year maths project/dissertation <br /> 
+		 Autumn Semester: Tue 1pm, <br /> 
+		 Spring Semester:  <br /> 
+	    
+		<p class="grey"> <b>Office hours</b> (availability for students)  <br /> 
+		 Autumn Semester: Wednesdays 11am, Fridays 2pm. <br />
+		 Spring Semester: . </p>
+
+		<p class="blue"> <b>Project students</b>   <br /> 
+		 You might find this <a href="https://www.maths.nottingham.ac.uk/personal/jadw/tbbhidden.pdf">
+		 advice on writing mathematics</a> helpful. </p>
+
+            <h1>Admin</h1>
+            <p class="blue"> For 2019-2020, I am Director of Teaching and Learning for the 
+	    School of Mathematical Sciences. </p>
+
+			<br />
+
+	    <div id="right-nav">
+		
+		  <br /><br /><br /><br /><br /><br />
+	    </div>
+	  </div>
+	  <div id="footer">
+	    <div id="footer-pad">
+	      <div class="line"></div>
+		  <!-- footer and copyright notice -->
+	      <p>Site is &copy; Jonathan Wattis, August 2015.</p> 
+	      <p>Design by <a href="http://www.steves-templates.com">Steve's free website templates</a>.</p>
+		  <!-- end footer and copyright notice -->
+	    </div>
+	  </div>
+	</div>
+  
+</body>
+</html>

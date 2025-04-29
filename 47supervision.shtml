@@ -1,0 +1,214 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<title>Jonathan Wattis - Supervision</title>
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  </head>
+
+  <body>
+
+<!--#include virtual="47top.shtml"-->
+
+	<div id="page">
+	  <div id="page-padding">
+        <!-- start content -->
+	    <div id="content">
+	      <div id="content-padding">
+
+            <h1>Current PhD students</h1>
+
+	<p class="blue">Kat Williams, 2016-2019, Regulation of RNA production 
+	and degradation, mainly supervised by Cornelia de Moor (Pharmacy). </p>
+
+<h1>Former PhD students</h1>
+
+	<p class="grey">Edward Acheampong. 2015-2019. Modelling waste water treatment, 
+	jointly supervised by Rachel Gomes (Engineering), Jamie Twycross (Computer Sci) 
+	and Ian Dryden (maths). </p>
+
+	<p class="blue">Matthew Coleman. 2013-2017, Mathematical modelling 
+	    of metabolism, jointly supervised by John King (maths). </p>
+
+	<p class="grey">Hannah Williams. 2012-2017, Mathematical 
+	    modelling of growth enhancers in pigs, 
+	    jointly supervised by Ian Dryden (maths), 
+	    with Tim Parr and John Brameld (biosciences). </p>
+
+            <p class="blue">Raj Gandhi. 2012-2016, mRNA regulation, 
+		mainly supervised by Cornelia de Moor (Pharmacy).  </p>
+
+            <p class="grey">Tom Wicks. 2011-2015, Simulations of Polymer Nucleation, 
+	   lead supervision by Richard Graham. </p>
+
+       <p class="blue"> Adrian Pratt. 2010-2014, Mathematical Modelling of 
+	    Hepatic Steatosis, jointly supervised by Andy Salter,  
+	    School of Biosciences, Sutton Bonington.</p>
+
+	    <p class="grey"> Rea L Antoniou Kourounioti, 2012-2013, 
+	    mainly supervised by Erik Murchie, Oliver Jensen (Manchester)
+	    and Mercedes Maroto-Valer (NCCCS). </p>
+
+            <p class="blue"> Valerie Pestinger. 2010-2013,  
+	    mainly supervised by, Kevin Sinclair, Biosciences, Sutton 
+	    Bonington, jointly supervised by Helen Byrne. 
+	    
+            <p class="grey"> Tal Pearson, 2007-2013 Metabolic flexibility (jointly 
+	    supervised by John King, Ian MacDonald, and Unilever Research). 
+	    Tal sadly died in 2013, aged just 26, following a 2-year battle with cancer. </p>
+
+             <p class="blue"> Bartholomaeus Hirt, 2008-2012, 
+	    Mathematical Modelling of Telomeres and Cell Cycle,  
+	    (jointly supervised with Simon Preston and Charlie Laughton).</p>
+
+            <p class="grey"> Matt Hamer,  2008-2012, Polymer nucleation, 
+	    (mainly supervised by Richard Graham)</p>
+
+            <p class="blue"> Amir Ali, 2009-2012, Fractional fluxons in AC-driven 
+	    SG, radiative damping and breather-kink interactions 
+	    (mainly supervised by Hadi Susanto). </p>
+
+            <p class="grey"> Saeed Ahmed, 2008-2011/2, 
+	    Pi-kinks in Josephson junctions (mainly supervised by Hadi Susanto).</p>
+
+            <p class="blue"> Qi Qi, 2007-2010, Kinetics of Telomere loss/growth,  
+	    (jointly supervised by Helen Byrne)</p>
+
+            <p class="grey">Xiang Yi. 2006-2010, Solitons on Lattices, 
+	    (jointly supervised by Hadi Susanto, Linda Cummings)</p>
+
+            <p class="blue"> Ciprian-Ionut Duduiala. 2006-2009, Dynamics of DNA, 
+	    (jointly supervised by Ian Dryden and Charlie Laughton)</p>
+
+            <p class="grey"> Imran Butt. 2002-2006. Nonlinear waves. </p>
+
+            <p class="blue"> Eugene Maltsev. 2001-2005, DNA condensation, 
+	    (jointly supervised by Helen Byrne, Snow Stolnik and Clive Roberts 
+	    (Pharmaceutical Sciences)). </p>
+
+            <p class="grey"> Graeme Smith. 2000-2003, Evanescent waves,  
+	    (primarily supervised by Stephen Creagh). </p>
+
+           <p class="blue"> Colin Bolton. 2000-2003, Problems in cluster-formation.</p>
+
+           <p class="grey"> John Harris. 1998-2002, Mechanical Alloying, 
+	   (jointly supervised with Professor John Wood, Materials Division).</p>
+
+           <p class="blue"> Susan Davies. 1995-1998, Gelation in the coagulation 
+	   equations,  (jointly supervised with John King).</p>
+
+ <h1>MSc students</h1>
+
+	 <p class="grey"> Elise Leahy. 2019.  Telomere length dynamics. 
+
+	 <p class="blue"> Aisha Malek. 2018.  Homogeneous nucleation. 
+
+	 <p class="grey"> Bronwyn McKee. 2018.  Differential-delay models of mRNA degradation. 
+
+	 <p class="blue"> Matt Roberts. 2017.  Modelling the effect of Cordecepin on cellular metabolic fluxes. 
+
+	 <p class="grey"> Georgios Zenios. 2016.  Base-pair breathing in stochastic models of DNA. 
+	 
+	 <p class="blue"> Georgia Sinainou. 2015.  Chiral symmetry-breaking in crystallisation.
+
+	 <p class="grey"> Nur Mohd Idris Aziean.  2015. Fitting DNA variance data. 
+
+	 <p class="blue"> Brendan Curtis. 2012-3.  mRNA degradation. 
+	 
+	 <p class="grey"> Martyn Rath. 2010. Mathematical modelling of 
+	 Telomere length dynamics in the presence of telomerase.
+
+	 <p class="blue"> Caroline Northall. 2008. Coarse-graining and 
+	 asymptotic analysis of a PDE model of lipoprotein metabolism 
+	 (jointly supervised by John King and Brendan O'Malley, Unilever). 
+
+<h1> UG Summer Research Students</h1>
+
+	 <p class="grey"> Jamie Scantlebury-Smead, 2019, Monitoring metabolism in the human brain. 
+	 
+	 <p class="blue"> Thomas Gresham, 2019, Spiders in Space. 
+	
+	<p class="grey"> Aaron Knights, 2018, Chiral polymerisation. 
+
+	 <p class="blue"> James Attwood, 2018, Telomere-clustering in yeast. (Wellcome)
+
+	 <p class="grey"> Louise Reeve, 2014, DNA condensation. 
+
+	 <p class="blue"> Ben Purvis, 2014, Random Sequential Adsorption. 
+	 
+	 <p class="grey"> Natalie Reckless, 2013, Telomere dynamics. 
+
+	 <p class="blue"> Clare Pym, 2012, Deadenylation of mRNA, (in
+	 collaboration with Cornelia de Moor, Pharmacy). 
+	 
+	 <p class="grey"> Lisa Wyver, 2007, Simulations of Telomere shortening. 
+
+	 <p class="blue"> Tal Pearson, 2006, Pit model of LDL/VLDL competitive 
+	 endocytosis.  
+
+<h1> Final year UG project students</h1>
+
+<p class="grey"> 
+
+Justin Millican, 2019, Coagulation kinetics. <br /> 
+Jamie Rees, 2018-9, Coagulation-fragmentation equations. <br /> 
+Khalil Huq, 2018-9, Cellular Automata.  <br /> 
+Gursimar Dhillon, 2018-9, Chiral symmetry-breaking. <br /> 
+Ihar Duniak, 2016-7, Nonlinear waves in FPU chains with internal modes. <br /> 
+Adam Bullock, 2016-7, Nonlinear waves in diatomic FPU chains. <br /> 
+Emily Collinson, 2015, Cellular Automata. <br /> 
+Joe Atkinson, 2014-15, Oort-Hulst coagulation-fragmentation. <br /> 
+Christina Baker, 2014-15, Chiral polymerisation and symmetry-breaking. <br /> 
+Alex Kelly, 2013-14, Oort-Hulst coagulation-disintegration. <br /> 
+Maya Kolaska, 2013-14, Chiral polymerisation and epimerisation. <br /> 
+Louise Adams, 2013-14, Differential-delay equations. <br /> 
+Peter Underdown, 2012-13, Coagulation with oscillatory input. <br />
+Laura Davis,  2012-13, The parking problem. <br />
+Matt Dawson 2011-2012, Differential-delay equations. <br />
+Nathan Bishop 2011-2012, The parking problem. <br />
+Sam Bonser, 2011-2012, Telomerase recombination. <br />
+David Burston, 2011-2012, Oort-Hulst coagulation-fragmentation. <br />
+Lauren James, 2010-2011, Breathers in a FPU honeycomb lattice. <br />
+Tom Copeland, 2010-2011, Symmetry-breaking in an APED model. <br />
+Jasmina Patwalia, 2009-2010, The parking problem. <br /> 
+Falguni Patel, 2008-2009, Chiral symmetry-breaking. <br />
+Lisa Wyver, 2006-2007, Lattice dynamics. <br /> 
+Anne McAteer, 2006-2007, Modelling fat take-up by liver cells. <br />
+Robert Taylor, 2006-2007, DNA condensation by charge neutralisation. <br /> 
+<!-- 2005-6, : 2 PJ + 1 DIS  -->  
+Jayna Lad, 2004-2005, Slime moulds. <br />
+James Fermont, 2004-2005. Polymerisation reactions. <br />
+Alistair Vincent, 2001-2002, Competitive nucleation. <br />
+Nigel Lowe 2000-2001, Modelling the Dynamics of DNA. <br />
+Russell Tew, 1999-2000, Travelling waves in a diatomic lattice. <br /> 
+Lee Boxall, 1997-1998, Modelling protein crystallisation. <br /> 
+Liz Greenslade, 1996-1997, Rehousing the homeless. <br />
+Greg Vanes, 1995-1996, Travelling waves in hydrogen-bonded systems. <br />
+Martin Pickup, 1994-1995, Electric potential in an electrolyte bath. <br />
+
+			<br />
+<!--            <h1>Temporary headline</h1>
+            <p class="grey">This is  the dr.</p> -->
+		  </div>
+		</div>
+		<!-- end content -->
+
+	    <div id="right-nav">
+		
+		  <br /><br /><br /><br /><br /><br />
+	    </div>
+	  </div>
+	  <div id="footer">
+	    <div id="footer-pad">
+	      <div class="line"></div>
+		  <!-- footer and copyright notice -->
+	      <p>Site is &copy; Jonathan Wattis, August 2011.</p> 
+	      <p>Design by <a href="http://www.steves-templates.com">Steve's free website templates</a>.</p>
+		  <!-- end footer and copyright notice -->
+	    </div>
+	  </div>
+	</div>
+  
+</body>
+</html>

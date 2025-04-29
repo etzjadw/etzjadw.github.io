@@ -1,0 +1,32 @@
+    <div id="container"><div id="body_space"><div id="header"><div id="logo-block">
+		    <!-- type your logo and small slogan here -->
+            <p id="logo">Jonathan<span class="logoblue">Wattis</span>
+
+
+	    	    </p>
+		    <p id="slogan"> </p>
+<!-- end logo and small slogan -->
+</div>
+
+<style type="text/css">
+.mylink img{border:1px solid #ffffff}
+.mylink {border:1px solid #ffffff}
+.mylink:hover {border:1px solid #0000ff}
+</style>
+<a href="http://www.nottingham.ac.uk" class="mylink">     
+<img style="positiona:absolute;top:135px;right0px;" width="170" height="68" src="http://www.nottingham.ac.uk/SiteElements/Images/Base/logo.png" alt="logo" />
+</a>
+
+<div class="cls"></div><div id="top-nav-bg"><div id="top-nav">
+<ul><!-- start top navigation bar -->
+<li><a href="http://www.maths.nottingham.ac.uk/~jadw/47index.shtml">Home</a></li>
+<li><a href="http://www.maths.nottingham.ac.uk/~jadw/47res.shtml">Research</a></li>
+<li><a href="http://www.maths.nottingham.ac.uk/~jadw/47coll.shtml">Collaborators</a></li>
+<li><a href="http://www.maths.nottingham.ac.uk/~jadw/47supervision.shtml">Supervision</a></li>
+<li><a href="http://www.maths.nottingham.ac.uk/~jadw/47pub.shtml">Publications</a></li>
+<li><a href="http://www.maths.nottingham.ac.uk/~jadw/47teaching.shtml">Teaching</a></li>
+<li><a style="background-image: none;" 
+	href="http://www.maths.nottingham.ac.uk/~jadw/47contact.shtml">Brief CV</a>
+		</li>
+              </ul><!-- end top navigation bar -->
+            </div></div></div></div></div>

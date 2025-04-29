@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<title>Jonathan Wattis - Contact details </title>
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  </head>
+
+  <body>
+
+<!--#include virtual="47top.shtml"-->
+
+	<div id="page">
+	  <div id="page-padding">
+        <!-- start content -->	    
+	    <div id="content">
+	      <div id="content-padding">
+
+
+       <h1>Brief CV</h1>
+            <p class="grey" style="line-height:130%">
+	    2017 - Professor in the 
+		 <a href="http://www.nottingham.ac.uk/mathematics/">School of  Mathematical Sciences</a>, 
+		 <a href="http://www.nottingham.ac.uk">University of Nottingham</a><br />
+	    2017- Senior Fellow of the Higher Education Academy <br />
+	    2009-2017 - Reader and Associate Professor, Sch Math Sci, UoN <br />
+	    2016 (April-May) Visiting Fellowship, Isaac Newton Institute, Cambridge <br />
+	    2007-2008 - EPSRC-funded Springboard fellowship <br />
+	    2007-2008 - Associate Professor, School of Mathematical Sciences, UoN<br />
+	    2005-2007 - Senior Lecturer, School of Mathematical Sciences, UoN<br />
+	    1998-2005 - Lecturer, School of Mathematical Sciences, UoN<br />
+	    1995-1998 - Lecturer, Department of Theoretical Mechanics, UoN<br />
+	    1994-1995 - Temporary Lecturer, Department of Theoretical Mechanics, UoN<br />
+	    1993-1994 - PDRA, Department of Mathematics, Heriot-Watt University<br />
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		 &nbsp; worked with Profs <a href="http://www.ma.hw.ac.uk/~oliver/">Oliver
+		 Penrose</a> and <a
+		 href="http://www.macs.hw.ac.uk/staff-directory/jack-carr.htm/">Jack
+		 Carr</a> and Denver Hall (<a href="http://www.unilever.com">Unilever</a>)<br />
+	    1990-1993 - PhD, <a href="http://www.ma.hw.ac.uk">Department of 
+		 Mathematics</a>, <a href="http://www.hw.ac.uk">Heriot-Watt 
+		 University</a><br />
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		 &nbsp; supervised by <a
+		 href="http://www.macs.hw.ac.uk/staff-directory/chris-eilbeck.htm">Prof J Chris Eilbeck</a><br />
+	    1989-1990 - MSc, <a href="http://www2.maths.ox.ac.uk/ociam">Mathematical 
+		 Modelling and Numerical Analysis</a>, <a href="http://www.ox.ac.uk">University of Oxford</a><br />
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		 &nbsp; supervised by <a href="people.maths.ox.ac.uk/fowler/">Prof
+		 Andrew Fowler</a><br />
+	    1986-1989 - BA, <a href="http://www.maths.ox.ac.uk">Mathematics</a>, 
+		 University of Oxford<br />
+	    </p>
+		  </div>
+		</div>
+		<!-- end content -->
+
+	    <div id="right-nav">
+		
+		  <br /><br /><br /><br /><br /><br />
+	    </div>
+	  </div>
+	  <div id="footer">
+	    <div id="footer-pad">
+	      <div class="line"></div>
+		  <!-- footer and copyright notice -->
+	      <p>Site is &copy; Jonathan Wattis, August 2011.</p> 
+	      <p>Design by <a href="http://www.steves-templates.com">Steve's free website templates</a>.</p>
+		  <!-- end footer and copyright notice -->
+	    </div>
+	  </div>
+	</div>
+  
+</body>
+</html>

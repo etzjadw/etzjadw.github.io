@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<title>Jonathan Wattis - Research</title>
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  </head>
+
+  <body>
+
+<!--#include virtual="47top.shtml"-->
+
+	<div id="page">
+	  <div id="page-padding">
+        <!-- start content -->	    
+	    <div id="content">
+	      <div id="content-padding">
+            <h1>Research interests</h1>
+
+            <p class="grey">My research interests fall into three broad categories: 
+	    nonlinear waves, coagulation processes, and mathematical medicine and biology. 
+	    Please contact me if you are interested in 
+	    pursuing a PhD in any of these areas. </p> 
+
+<!--  ORCID 0000-0002-6490-1938  -->
+
+	    <p class="blue"><b>Nonlinear Waves</b></p>
+
+            <p class="grey"><b> - Travelling Kinks and Breathers in FPU-Klein-Gordon lattices:</b> 
+	    - I started working on solitons on lattices for my PhD thesis, and have continued, 
+	    expanding to cover more complex modes and higher-dimensional lattices.</p>
+
+	    <p class="grey"><b> - Breathing of DNA:</b> 
+	    - this is one application of breathers on lattices, 
+	    but with Charlie Laughton, we have worked on parameterising stochastic 
+	    differential equation models using AMBER. </p>
+
+	    <p class="grey"><b> - Fluxons in Josephson Junctions:</b> - 
+	    collaborative work with Hadi Susanto is focused on understanding 
+	    a range of nonlinear dynamics relevant to current and potential 
+	    nanotechnological devices.  </p>
+
+		<p class="grey"><b> - ICMS meeting on Nonlinear Waves and Solitons on
+		Lattices</b> - 
+		in April 2011, there was a meeting in honour of Chris Eilbeck on his 
+		retirement. Details of speakers, talk titles, abstracts are available <a
+		href="http://www.maths.nottingham.ac.uk/personal/jadw/jce/">here</a>.</p>
+
+            <p class="blue"><b>Coagulation-fragmentation problems</b></p>
+
+	    <p class="grey"><b> - Polymer nucleation:</b> - collaborative work 
+	    with Richard Graham focuses on the effects of flow, stretch, nuclei orientation, etc.  </p>
+
+	    <p class="grey"><b> - Origins of Life:</b> - 
+		I am interested in modelling the chemical processes which occur during 
+		the formation of chiral polymers/crystals, also the information storage of 
+		primitive DNA/RNA sequences, and simple metabolic processes by which 
+		cell-like structures form. </p>
+
+	    <p class="grey"><b> - Island growth during deposition:</b> - for example 
+	    in molecular beam epitaxy (MBE), the continuous deposition of atoms on a surface 
+	    causes islands to form; the size distribution of these islands often follows a 
+	    self-similar form. 
+	    I am interested in analysing the large-time asymptotics of this process. </p>
+
+	    <p class="grey"><b> - Generalised nucleation theory:</b> 
+		I am interested in analysing a range of techniques, for example asymptotics 
+		of the Becker-Doring equations, as well as the Smoluchowski equations,  
+		and approximation techniques based on coarse-graining and 
+		continuum limits. </p>
+
+            <p class="blue"><b>Mathematical Medicine and Biology</b></p>
+
+	    <p class="grey"><b> - mRNA degradation:</b> 
+		together with Dr Cornelia de Moor of the School of Pharmacy at Nottingham, 
+		I am working on the processes by which the poly-A-tails of mRNAs are 
+		eroded, leading to the destruction of mRNA. </p>
+
+	    <p class="grey"><b> - Carbohydrate and Fat metabolism in humans:</b> 
+		I am collaborating on the construction of computer simulations 
+		of human nutrition and the development of various metabolic 
+		conditions such as diabetes and fatty liver disease. </p>
+
+	    <p class="grey"><b> - Carbon metabolism during seed germination:</b> - 
+	    I work with Mark Hooks (Bangor) on mathematical models of  
+	    fluxes in and through the peroxysome/glyoxysome. </p>
+
+	    <p class="grey"><b> - Metabolic pathways in ovarian cells:</b> - 
+	    recent collaborative work with Kevin Sinclair (Biosciences, Nottingham) 
+	    and Helen Byrne (Oxford) aims to model the methionine cycle.  </p>
+
+	    <p class="grey"><b> - Telomere dynamics, and the influence of cell cycle 
+	    on drug treatment:</b> - the evolution of telomere lengths is a 
+	    process which can be modelled by discrete dynamical system 
+	    that can be analysed using asymptotic techniques.   </p>
+
+	    <p class="grey"><b> - DNA condensation for gene therapy:</b> - 
+	    this reduces to a classic toy problem in physics, 
+	    namely random sequential adsorption (RSA), also known as the parking 
+	    problem.  I am interested in deriving solutions to certain cases using 
+	    asymptotic limits, and connections with MBE (see above), since both 
+	    are described by coagulation-fragmentation processes. Earlier work 
+	    in this area involved Snow Stolnik and Clive Roberts (Pharmaceutical 
+	    Sciences, Nottingham) and Helen Byrne (Oxford). </p>
+
+		<!-- end content -->
+
+	    <div id="right-nav">
+		
+		  <br /><br /><br /><br /><br /><br />
+	    </div>
+	    </div>
+	  </div>
+	  </div>
+	  <div id="footer">
+	    <div id="footer-pad">
+	      <div class="line"></div>
+		  <!-- footer and copyright notice -->
+	      <p>Site is &copy; Jonathan Wattis, August 2011.</p> 
+	      <p>Design by <a href="http://www.steves-templates.com">Steve's free website templates</a>.</p>
+		  <!-- end footer and copyright notice -->
+	    </div>
+	  </div>
+	</div>
+  
+</body>
+</html>
